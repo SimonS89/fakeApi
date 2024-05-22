@@ -1,6 +1,9 @@
 [
   {
+    "id": 1,
+    "img": "https://content.r9cdn.net/rimg/dimg/ef/8c/ff016182-city-835-16e60d10354.jpg?width=1366&height=768&xhint=1469&yhint=1033&crop=true",
     "destino": "Valparaiso, Chile",
+    "precio": 700,
     "opiniones": [
       {
         "nombre": "Maria Fernanda",
@@ -17,7 +20,10 @@
     ]
   },
   {
+    "id": 2,
+    "img": "https://media.istockphoto.com/id/1359239820/es/foto/costa-de-canc%C3%BAn-con-sol-y-veleros.webp?b=1&s=170667a&w=0&k=20&c=MCFadC_qLQLUc-jW9Q86qXWzxDAVFCUVsZ8dCbi7Gso=",
     "destino": "Cancún, México",
+    "precio": 800,
     "opiniones": [
       {
         "nombre": "Carlos",
@@ -50,7 +56,10 @@
     ]
   },
   {
+    "id": 3,
+    "img": "https://images.unsplash.com/photo-1600208669687-f19af3638cb9?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8YXVja2xhbmQlMkMlMjBuZXclMjB6ZWFsYW5kfGVufDB8fDB8fHww",
     "destino": "Auckland, Nueva Zelanda",
+    "precio": 100,
     "opiniones": [
       {
         "nombre": "María",
@@ -63,7 +72,10 @@
     ]
   },
   {
+    "id": 4,
+    "img": "https://i.pinimg.com/736x/25/2c/98/252c988c9792243b8fd895200f1b96d0.jpg",
     "destino": "Hong Kong, China",
+    "precio": 700,
     "opiniones": [
       {
         "nombre": "Alejandro",
@@ -80,7 +92,10 @@
     ]
   },
   {
+    "id": 5,
+    "img": "https://c4.wallpaperflare.com/wallpaper/37/931/713/capitolio-la-havana-cuba-ciudad-wallpaper-thumb.jpg",
     "destino": "La Habana, Cuba",
+    "precio": 700,
     "opiniones": [
       {
         "nombre": "Luisa García",
@@ -105,7 +120,10 @@
     ]
   },
   {
+    "id": 6,
+    "img": "https://i.pinimg.com/originals/bd/c0/99/bdc099373d6acbce20fe7179ba9372e4.jpg",
     "destino": "Los Alpes Suizos",
+    "precio": 1500,
     "opiniones": [
       {
         "nombre": "Elena García",
