@@ -1,4 +1,61 @@
-[
+{
+  "opiniones:[
+  {
+    "id": 1,
+    "img": "./img/opinions/MartinRoma.jpg",
+    "nombre": "Martin Roma",
+    "opinion": "¡Mi primera vez viajando a Cancún fue una experiencia verdaderamente excepcional! Desde las playas de arena blanca hasta las aguas cristalinas del Caribe, cada momento fue mágico y memorable."
+  },
+  {
+    "id": 2,
+    "img": "./img/opinions/MatiasDomingez.jpg",
+    "nombre": "Matias Dominguez",
+    "opinion": "Mi primera vez viajando a Cuba fue una experiencia increíble! Totalmente agradecido con Travel World!"
+  },
+  {
+    "id": 3,
+    "img": "./img/opinions/Juan.jpg",
+    "nombre": "Ange Postecoglou",
+    "opinion": "Gracias Travel World por tan excepcional servicio, además la gente con la que viaje, muy copada. Conocí a mi pareja en mi viaje a Florianopolis!"
+  },
+  {
+    "id": 4,
+    "img": "./img/opinions/PabloRomero.jpg",
+    "nombre": "Pablo Romero",
+    "opinion": "Mi viaje a Los Alpes fue una experiencia transformadora que nunca olvidaré. ¡Gracias a la empresa por brindar un servicio excepcional y ayudarme a descubrir la belleza y la grandeza de esta increíble región montañosa!"
+  },
+  {
+    "id": 5,
+    "img": "./img/opinions/RominaLopez.jpg",
+    "nombre": "Romina Lopez",
+    "opinion": "Mi primera vez viajando a Valparaíso fue una experiencia verdaderamente enriquecedora. Desde su vibrante arte callejero hasta su encantador casco histórico, cada rincón de esta ciudad portuaria me cautivó y dejó una impresión duradera."
+  },
+  {
+    "id": 6,
+    "img": "./img/opinions/JuanRoman.jpg",
+    "nombre": "Juan Roman",
+    "opinion": "Excelente servicio de la empresa para volver realidad mi sueño de viajar a Rio de Janeiro. Super recomendado!"
+  },
+  {
+    "id": 7,
+    "img": "./img/opinions/LuisMiguel.jpg",
+    "nombre": "Luis Miguel",
+    "opinion": "Definitivamente volvería a viajar con esta empresa ya que ofrecieron un gran servicio. Encantado con sus tours por toda Roma!!"
+  },
+  {
+    "id": 8,
+    "img": "./img/opinions/JoseGomez.jpg",
+    "nombre": "Jose Gomez",
+    "opinion": "Encantado con todos los servicios de la empresa!! Fue el viaje mas hermoso de mi vida!"
+  },
+  {
+    "id": 9,
+    "img": "./img/opinions/LauraFernandez.jpg",
+    "nombre": "Laura Fernandez",
+    "opinion": "Fue la primera vez que viaje a Asia, mi viaje a hong kong fue espléndido. Conocer una cultura totalmente distinta a la nuestra me encantó, y el gran servicio de la empresa es para destacar!"
+  }
+],
+  "destinos":[
   {
     "id": 1,
     "img": "https://content.r9cdn.net/rimg/dimg/ef/8c/ff016182-city-835-16e60d10354.jpg?width=1366&height=768&xhint=1469&yhint=1033&crop=true",
@@ -136,3 +193,4 @@
     ]
   }
 ]
+}
